@@ -2,7 +2,7 @@
 Progetto di fine corso in Introduzione alla Data Science e al Pensiero Computazionale di GEPID.
 
 ## Membri gruppo
-Il progetto è stato realizzato dal **Gruppo n° XY**:
+Il progetto è stato realizzato dal **Gruppo n° 16**:
 * **Filippo Vignoli**: matricola 0001217390, email filippo.vignoli@studio.unibo.it
 * **Fabio Sola**: matricola 0001231148, email fabio.sola2@studio.unibo.it
 
@@ -35,3 +35,6 @@ Per riprodurre il progetto e rieseguire le analisi, seguire i seguenti passaggi:
 2. Assicurarsi di avere nella directory di lavoro il dataset `Customer_Churn.csv` che viene letto tramite `pd.read_csv("Customer_Churn.csv")`.
 3. Assicurarsi di avere installato le librerie Python necessarie richieste nel notebook: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn` e `imblearn`.
 4. Eseguire le celle del notebook partendo dalla "Preparazione dell'ambiente" fino alla Parte 4 ("Valutazione e interpretazione dei risultati").
+
+***
+Buona lettura e buon lavoro!
